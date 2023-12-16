@@ -1,6 +1,5 @@
 # A small game for christmas Ball_Space developed in python3-pygame
-# I work to do data consistency specially the dimensions of pixels , by foundamentals  of calculus
-# coming soon.
+I work to do data consistency specially the dimensions of pixels , by foundamentals  of calculus. Coming soon
 
 # Dependencies: python3 and library pygame:
 sudo apt install python3
