@@ -16,7 +16,7 @@ In Anaconda-spyder open conda prompt:
 conda install -c cogsci pygame
 
 
-Others codes and projects:
+# Others codes and projects:
 Here you find varius Solutions of Homeworks in python3
 I will add instructions and dependencies later
 You can see in Anconda-spyder for tests 
