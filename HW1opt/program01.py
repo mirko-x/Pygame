@@ -39,7 +39,7 @@ def ex1(int_seq, subtotal):
     for x in int_seq:
         if x != 0:
             zerobool = False
-            break
+            break 
     for x in int_seq:
         if x != 1:
             unobool = False
