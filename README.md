@@ -23,6 +23,4 @@ conda install -c cogsci pygame
 
 # Others codes and projects:
 Here you find varius Solutions of Homeworks in python3
-I will add instructions and dependencies later
-You can see in Anconda-spyder for tests 
-
+The solution Is in program01.py , for testing your program with pytest or unittest you must create a file with name program01.py
