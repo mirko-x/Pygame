@@ -36,3 +36,9 @@ Package if you not use Anaconda-spyder :
 pip install ddt pytest-timeout stopit pytest-profiling radon typeguard
 
 
+COPYRIGHT
+=========
+Copyright (C) 2025  Mirko Scovacricchi <mscovak@gmail.com>
+
+Tutti i programmi ed i file contenuti in questo archivio/directory sono rilasciati sotto licenza GPL v.3
+
